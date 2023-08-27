@@ -1,0 +1,2 @@
+# naxsave
+naxsaveGame
